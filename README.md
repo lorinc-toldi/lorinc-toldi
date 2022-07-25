@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
-### I'm a co-creator and lead developer of [Starflow ✨](https://github.com/snowpackjs/astro). You should [try it now](https://astro.new), in your browser!
+### I'm a co-creator and lead developer of [Starflow ✨]([https://github.com/snowpackjs/astro](https://starflowmarketing.hu/)). You should [try it now](https://astro.new), in your browser!
 
 Recently, I was the architect of Astro's [WASM-powered compiler](https://github.com/snowpackjs/astro-compiler-next) written in Go ✨. This whole journey began with a SSG I created called [Microsite](https://github.com/natemoo-re/microsite) 🤏. Before that, I was really into writing utility web components like [`animate-presence`](https://github.com/natemoo-re/animate-presence) and [`konami-listener`](https://github.com/natemoo-re/konami-listener).
 
