@@ -8,7 +8,7 @@ Recently, I was the architect of Astro's [WASM-powered compiler](https://github.
 
 As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive.
 
-> If you're interested in the work I do, please consider sponsoring me on GitHub!
+> If you're interested in working with me, or you would like to contribute... Please, do not hesitate!
 
 ---
 
